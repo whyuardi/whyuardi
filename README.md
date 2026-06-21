@@ -1,50 +1,33 @@
-<h1 align="center">Hey, I'm Ar 👋</h1>
+# Hey, I'm Ar 👋
 
-<p align="center">
-  <b>Web3 Builder · Automation Enthusiast</b><br>
-  <i>Shipping things that work. No fluff.</i>
-</p>
+**Web3 Builder · Automation Enthusiast**
 
-<p align="center">
-  <a href="https://twitter.com/whyuardi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://github.com/whyuardi/ignite-launchpad"><img src="https://img.shields.io/badge/Ignite-Launchpad-FFB800?style=for-the-badge" /></a>
-  <a href="https://ignite-launchpad.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-00C896?style=for-the-badge" /></a>
-</p>
+*Shipping things that work. No fluff.*
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whyuardi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFB800&icon_color=FFB800&text_color=c9d1d9&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyuardi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFB800&text_color=c9d1d9" width="48%" />
-</p>
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whyuardi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whyuardi&layout=compact&theme=radical&hide_border=true&langs_count=10)
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-</p>
+`TypeScript` `Next.js` `React` `Tailwind CSS` `Three.js` `Solidity` `Dart` `Kotlin`
 
 ---
 
-### Featured
+## Featured
 
 | Project | Stack | Link |
 |---------|-------|------|
-| **Ignite Launchpad** | Next.js, Three.js, Tailwind | [Live](https://ignite-launchpad.vercel.app) · [Code](https://github.com/whyuardi/ignite-launchpad) |
-| **ORION Dashboard** | JavaScript, Three.js, WebSocket | [Code](https://github.com/whyuardi/orion-dashboard) |
+| **Ignite Launchpad** | Next.js, Three.js, Tailwind | [Live](https://ignite-launchpad.vercel.app) |
+| **ORION Dashboard** | JavaScript, Three.js | [Code](https://github.com/whyuardi/orion-dashboard) |
 | **Arc USDC Dashboard** | Vite, React, wagmi | [Code](https://github.com/whyuardi/arc-unified-dashboard) |
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/whyuardi/whyuardi/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
+*Ship it. Fix it later.*

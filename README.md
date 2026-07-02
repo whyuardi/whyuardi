@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://github.com/whyuardi">
-    <img src="https://github-readme-stats.vercel.app/api?username=whyuardi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyuardi&layout=compact&theme=radical&hide_border=true&langs_count=10" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=whyuardi&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" height="180em"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whyuardi&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=1800" height="180em"/>
   </a>
 </p>
 
@@ -65,8 +65,10 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=whyuardi&theme=radical&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=whyuardi&theme=radical&no-frame=true&row=1&column=6&margin-w=8" alt="trophies"/>
 </p>
+
+> Kalau trophies belum muncul juga, tunggu beberapa menit lalu refresh — server demo ini kadang butuh waktu generate pertama kali untuk akun baru.
 
 ---
 
@@ -100,7 +102,6 @@
   <img src="https://raw.githubusercontent.com/whyuardi/whyuardi/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-> Snake ini otomatis di-generate lewat GitHub Actions — lihat file `snake.yml` yang aku sertakan biar bisa langsung kamu pasang.
 
 ---
 
